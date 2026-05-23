@@ -1,7 +1,8 @@
-# 💫 Sobre Mim:
-👋 Olá, eu sou **Richard Willyam** (@richardwillamcom-del) 🦆 
+<div align="center">
+  <img src="https://preview.redd.it/ai-duckling-vs-real-picture-of-a-duckling-i-took-myself-you-v0-05wo18nxmpef1.jpg?width=626&format=pjpg&auto=webp&s=5fa5aa35601a92a92e103ebc1fa4bbf2eb1f213a" width="300" style="border-radius: 50%;" alt="Patinho Focado" />
+</div>
 
-⚡ **Status:** <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/git.slide.svg" height="16px" valign="middle" /> Ativo e focado nos códigos!
+👋 Olá, eu sou **Richard Willyam** (@richardwillamcom-del) 🦆 
 
 🎓 **Formado no Ensino Médio** | 🚀 Graduando em **Engenharia de Software na UFBRAS**
 ⚡ Atualmente faço faculdade de Engenharia de Software e foco em Fundamentos de Software, Base da Computação e desenvolvimento de projetos práticos.
